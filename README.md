@@ -27,3 +27,19 @@ This file is used to create simulation environment according to the user's prefe
   python, etc.
   
 #						ENJOY
+<p>Figure 2: Packet Delivery Ratio</p>
+<img src="./Assets/Picture1.png">
+<p>Figure 3: Average end-to-end delay</p>
+<img src="./Assets/Picture2.png">
+<p>Figure 4: Control overhead vs sensor nodes</p>
+<img src="./Assets/Picture3.png">
+<p>Figure 5: PDR vs node count</p>
+<img src="./Assets/Picture4.png">
+<p>Figure 6: End to End delay vs node count</p>
+<img src="./Assets/Picture5.png">
+<p>Figure 7: Control overhead vs node count</p>
+<img src="./Assets/Picture6.png">
+<p>Figure 8: PDR vs hop count</p>
+<img src="./Assets/Picture7.png">
+<p>Figure 9: End to End delay vs hop count</p>
+<img src="./Assets/Picture8.png">
